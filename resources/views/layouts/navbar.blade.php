@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-success" style="">
-  <a class="navbar-brand text-white" href="#">Gudang Pak Rustam</a>
+  <a class="navbar-brand text-white" href="#">Gudang Sekolah</a>
   <div class="collapse navbar-collapse" id="navbarNavDropdown">
     <ul class="navbar-nav">
       <li class="nav-item">
