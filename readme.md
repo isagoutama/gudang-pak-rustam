@@ -11,14 +11,14 @@
 
 Ini adalah aplikasi gudang sederhana yang dibuat menggunakan Framework Laravel 5.6.29. Untuk melihat requirements dari laravel versi tersebut silahkan di dukumentasi laravel, linknya : https://laravel.com/docs/5.7#server-requirements.
 
-Di dalam aplikasi ini hanya crud sederhana dengan relationship One To One, One to Many, dan One To Many(reverse). Cocok untuk belajar.
+Di dalam aplikasi ini hanya crud sederhana dengan relationship One To One, One to Many, dan One To Many(reverse). Cocok untuk belajar. Untuk UI/Tampilan saya menggunakan bootstrap v4.
 
 ## Clone Project
 
 git clone https://github.com/isagoutama/gudang-pak-rustam.git
 
 ## Setup
-# buka terminal dan ketik perintah dibawah ini :
+### buka terminal dan ketik perintah dibawah ini :
 
 cd $DIRECTORY_TO/gudang-pak-rustam
 
