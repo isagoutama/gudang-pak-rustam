@@ -34,6 +34,4 @@ php artisan serve
 
 ## Catatan
 
-untuk login, akunnya bisa dilihat di seeder UsersTableSeeder
-
 btw, pak rustam itu nama staff di sekolah saya bagian gudang
